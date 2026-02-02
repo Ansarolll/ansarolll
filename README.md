@@ -1,16 +1,17 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&theme=gradient&color=timeAuto&height=300&section=header&text=Make%20it%20Happen&fontSize=50&animation=fadeIn&desc=Andrianiainina%20Sahobisoa%20Rolland&descSize=25d&descAlignY=65&descAlign=60)
 
-<!--
-**Ansarolll/ansarolll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center>I'm Andrianiaina Sahobisoa Rolland alias AnSaRoll. <br/> <b> React Developer </b> </p>
 
-Here are some ideas to get you started:
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ansaroll&theme=garden)](https://git.io/streak-stats)
+  <p align="center"> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align='center'>
+  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-fcba03?style=for-the-badge&logo=javascript&logoColor=white'/>
+  <img alt='Typescript' src='https://img.shields.io/badge/Typescript-0f7aab?style=for-the-badge&logo=typescript&logoColor=white'/>
+  <img alt='React' src='https://img.shields.io/badge/React-65bde6?style=for-the-badge&logo=react&logoColor=white'/>
+  <img alt='PHP' src='https://img.shields.io/badge/PHP-4755b5?style=for-the-badge&logo=php&logoColor=white'/>
+  </p>
+
+<!-- <p align=center>  <strong>
+<img src='https://komarev.com/ghpvc/?username=ansaroll&color=008080'>
+</strong> <p> -->
